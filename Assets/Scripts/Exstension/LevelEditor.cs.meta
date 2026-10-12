@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 8f6a4fcdaffb3f24caf74af5d62f4f0e
+timeCreated: 1514301461
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_PersistentViewDataDictionary: {instanceID: 0}
+  - cell: {instanceID: 0}
+  - sprSelect: {fileID: 21300000, guid: b6f2cc92ee9d83a4db18be83a7767e05, type: 3}
+  - blockColorDefinePrefap: {fileID: 1908430838665392, guid: 69f83e803eddea94ca68a9266e7675f9,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

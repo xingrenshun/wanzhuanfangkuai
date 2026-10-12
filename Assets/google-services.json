@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "885231934800",
+    "firebase_url": "https://block-46f22.firebaseio.com",
+    "project_id": "block-46f22",
+    "storage_bucket": "block-46f22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885231934800:android:78176847627e98c6",
+        "android_client_info": {
+          "package_name": "com.sg.blockpuzzle.quest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885231934800-57cb5eu9i48spqmooqfhs0n1159sncdo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBrdL6KUN7JaT8VvUGWQ-nYGkuu_VfzeQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

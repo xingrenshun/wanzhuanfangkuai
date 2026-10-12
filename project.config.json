@@ -1,0 +1,23 @@
+{
+  "appid": "ttab57ddea344d3ce107",
+  "projectname": "JellyTme2020",
+  "unity": {
+    "build": {
+      "webgl": "E:\\Unity\\jelly-puzzle-master\\tt-minigame\\webgl_package-20260110_150835.zip",
+      "native": {
+        "il2cpp": "",
+        "apk": "",
+        "fullApk": ""
+      },
+      "instantGame": ""
+    },
+    "publishType": "2",
+    "starkSdkVersion": "Without StarkSDK",
+    "unityToolsVersion": "",
+    "unityEngineVersion": "2022.3.48f1c1",
+    "arch": ""
+  },
+  "setting": {
+    "urlCheck": false
+  }
+}
