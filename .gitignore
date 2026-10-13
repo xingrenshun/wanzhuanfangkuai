@@ -76,5 +76,9 @@ crashlytics-build.properties
 /tt-minigame/
 /taptap-minigame/
 
+# 运行时日志
+/log/
+/logs/
+
 # macOS metadata junk from archives
 ._*
