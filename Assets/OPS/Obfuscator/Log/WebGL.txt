@@ -59,7 +59,285 @@
   - Destroy
 
 [Info][OPS.OBF][OnProcess_Assets] Process component Analyse Unity Animation Methods
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Iterate components in loaded build scene Assets/Scenes/scn_home.unity.
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Iterate components in loaded build scene Assets/Scenes/scn_loading.unity.
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found 6 Root GameObjects in Scene Assets/Scenes/scn_loading.unity
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found 103 Components in Scene Assets/Scenes/scn_loading.unity
+[Info][OPS.OBF][OnAnalyse_Component_Scenes] Process component Analyse Unity Event Component
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in Main Camera of type UnityEngine.Transform
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in Main Camera of type UnityEngine.Camera
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in Main Camera of type UnityEngine.FlareLayer
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in Main Camera of type UnityEngine.AudioListener
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in Main Camera of type LoadingControl
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in DefineGroup of type UnityEngine.Transform
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in DefineGroup of type DontDestroyOnLoad
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in BlockColorDefine of type UnityEngine.Transform
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in BlockColorDefine of type BlockColorDefine
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in TextEffectDefine of type UnityEngine.Transform
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in TextEffectDefine of type TextEffectDefine
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in AudioManager of type UnityEngine.Transform
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in AudioManager of type AudioManager
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in AudioManager of type UnityEngine.AudioSource
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in AudioManager of type UnityEngine.AudioSource
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in LoadSceneFading of type UnityEngine.Transform
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in LoadSceneFading of type Fading
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in LoadSceneFading of type LoadSceneFading
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in BoosterDefine of type UnityEngine.Transform
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in BoosterDefine of type BoosterDefine
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in Timer of type UnityEngine.Transform
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in Timer of type TimerControl
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in Admob of type UnityEngine.Transform
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in Admob of type Admob
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in Maidian of type UnityEngine.Transform
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in Maidian of type AdManager
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in guanggao of type UnityEngine.Transform
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in EventSystem of type UnityEngine.Transform
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in EventSystem of type UnityEngine.EventSystems.EventSystem
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in EventSystem of type UnityEngine.EventSystems.StandaloneInputModule
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in Canvas of type UnityEngine.RectTransform
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in Canvas of type UnityEngine.Canvas
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in Canvas of type UnityEngine.UI.CanvasScaler
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in Canvas of type UnityEngine.UI.GraphicRaycaster
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in iBackground of type UnityEngine.RectTransform
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in iBackground of type UnityEngine.CanvasRenderer
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in iBackground of type UnityEngine.UI.Image
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in iLoading of type UnityEngine.RectTransform
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in iLoading of type UnityEngine.CanvasRenderer
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in iLoading of type UnityEngine.UI.Image
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in iGameName of type UnityEngine.RectTransform
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in iGameName of type UnityEngine.CanvasRenderer
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in iGameName of type UnityEngine.UI.Image
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in LoadingBarBg of type UnityEngine.RectTransform
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in LoadingBarBg of type UnityEngine.CanvasRenderer
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in LoadingBarBg of type UnityEngine.UI.Image
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in LoadingBar of type UnityEngine.RectTransform
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in LoadingBar of type UnityEngine.CanvasRenderer
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in LoadingBar of type UnityEngine.UI.Image
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in Text (TMP) of type UnityEngine.RectTransform
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in Text (TMP) of type UnityEngine.CanvasRenderer
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in Text (TMP) of type TMPro.TextMeshProUGUI
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in Text (TMP) (1) of type UnityEngine.RectTransform
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in Text (TMP) (1) of type UnityEngine.CanvasRenderer
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in Text (TMP) (1) of type TMPro.TextMeshProUGUI
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in Text (TMP) (2) of type UnityEngine.RectTransform
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in Text (TMP) (2) of type UnityEngine.CanvasRenderer
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in Text (TMP) (2) of type TMPro.TextMeshProUGUI
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in Text (TMP) (3) of type UnityEngine.RectTransform
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in Text (TMP) (3) of type UnityEngine.CanvasRenderer
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in Text (TMP) (3) of type TMPro.TextMeshProUGUI
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in MoreCoinPopup of type UnityEngine.Transform
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in MoreCoinPopup of type DontDestroyOnLoad
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in MoreCoinPopup of type MoreCoinPopup
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found unity event methods in MoreCoinPopup (1):
+  - WatchAds
+
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in Canvas of type UnityEngine.RectTransform
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in Canvas of type UnityEngine.Canvas
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in Canvas of type UnityEngine.UI.CanvasScaler
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in Canvas of type UnityEngine.UI.GraphicRaycaster
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in Board of type UnityEngine.RectTransform
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in Board of type UnityEngine.CanvasRenderer
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in Board of type UnityEngine.UI.Image
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in Popup of type UnityEngine.RectTransform
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in Popup of type UnityEngine.CanvasRenderer
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in Popup of type UnityEngine.UI.Image
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in Popup of type UnityEngine.Animator
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in iVideoIcon of type UnityEngine.RectTransform
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in iVideoIcon of type UnityEngine.CanvasRenderer
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in iVideoIcon of type UnityEngine.UI.Image
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in bWatchAds of type UnityEngine.RectTransform
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in bWatchAds of type UnityEngine.CanvasRenderer
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in bWatchAds of type UnityEngine.UI.Image
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in bWatchAds of type UnityEngine.UI.Button
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in tWatchAds of type UnityEngine.RectTransform
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in tWatchAds of type UnityEngine.CanvasRenderer
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in tWatchAds of type TMPro.TextMeshProUGUI
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in Image of type UnityEngine.RectTransform
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in Image of type UnityEngine.CanvasRenderer
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in Image of type UnityEngine.UI.Image
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in tDescription of type UnityEngine.RectTransform
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in tDescription of type UnityEngine.CanvasRenderer
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in tDescription of type TMPro.TextMeshProUGUI
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in tDescription (1) of type UnityEngine.RectTransform
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in tDescription (1) of type UnityEngine.CanvasRenderer
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in tDescription (1) of type TMPro.TextMeshProUGUI
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in bClose of type UnityEngine.RectTransform
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in bClose of type UnityEngine.CanvasRenderer
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in bClose of type UnityEngine.UI.Image
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in bClose of type UnityEngine.UI.Button
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found unity event methods in bClose (1):
+  - Close
+
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in Image of type UnityEngine.RectTransform
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in Image of type UnityEngine.CanvasRenderer
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in Image of type UnityEngine.UI.Image
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in GuangGao of type UnityEngine.Transform
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in GuangGao of type GuangGao
+[Info][OPS.OBF][OnAnalyse_Component_Scenes] Process component Analyse MonoScript
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference LoadingControl for Main Camera
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for Main Camera (1):
+  - LoadingControl
+
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference DontDestroyOnLoad for DefineGroup
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for DefineGroup (1):
+  - DontDestroyOnLoad
+
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference BlockColorDefine for BlockColorDefine
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for BlockColorDefine (1):
+  - BlockColorDefine
+
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference TextEffectDefine for TextEffectDefine
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for TextEffectDefine (1):
+  - TextEffectDefine
+
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference AudioManager for AudioManager
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for AudioManager (1):
+  - AudioManager
+
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference Fading for LoadSceneFading
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for LoadSceneFading (1):
+  - Fading
+
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference LoadSceneFading for LoadSceneFading
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for LoadSceneFading (1):
+  - LoadSceneFading
+
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference BoosterDefine for BoosterDefine
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for BoosterDefine (1):
+  - BoosterDefine
+
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference TimerControl for Timer
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for Timer (1):
+  - TimerControl
+
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference Admob for Admob
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for Admob (1):
+  - Admob
+
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference AdManager for Maidian
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for Maidian (1):
+  - AdManager
+
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference UnityEngine.EventSystems.EventSystem for EventSystem
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for EventSystem (1):
+  - UnityEngine.EventSystems.EventSystem
+
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference UnityEngine.EventSystems.StandaloneInputModule for EventSystem
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for EventSystem (1):
+  - UnityEngine.EventSystems.StandaloneInputModule
+
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference UnityEngine.UI.CanvasScaler for Canvas
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for Canvas (1):
+  - UnityEngine.UI.CanvasScaler
+
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference UnityEngine.UI.GraphicRaycaster for Canvas
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for Canvas (1):
+  - UnityEngine.UI.GraphicRaycaster
+
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference UnityEngine.UI.Image for iBackground
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for iBackground (1):
+  - UnityEngine.UI.Image
+
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference UnityEngine.UI.Image for iLoading
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for iLoading (1):
+  - UnityEngine.UI.Image
+
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference UnityEngine.UI.Image for iGameName
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for iGameName (1):
+  - UnityEngine.UI.Image
+
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference UnityEngine.UI.Image for LoadingBarBg
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for LoadingBarBg (1):
+  - UnityEngine.UI.Image
+
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference UnityEngine.UI.Image for LoadingBar
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for LoadingBar (1):
+  - UnityEngine.UI.Image
+
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference TMPro.TextMeshProUGUI for Text (TMP)
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for Text (TMP) (1):
+  - TMPro.TextMeshProUGUI
+
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference TMPro.TextMeshProUGUI for Text (TMP) (1)
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for Text (TMP) (1) (1):
+  - TMPro.TextMeshProUGUI
+
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference TMPro.TextMeshProUGUI for Text (TMP) (2)
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for Text (TMP) (2) (1):
+  - TMPro.TextMeshProUGUI
+
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference TMPro.TextMeshProUGUI for Text (TMP) (3)
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for Text (TMP) (3) (1):
+  - TMPro.TextMeshProUGUI
+
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference DontDestroyOnLoad for MoreCoinPopup
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for MoreCoinPopup (1):
+  - DontDestroyOnLoad
+
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference MoreCoinPopup for MoreCoinPopup
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for MoreCoinPopup (1):
+  - MoreCoinPopup
+
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference UnityEngine.UI.CanvasScaler for Canvas
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for Canvas (1):
+  - UnityEngine.UI.CanvasScaler
+
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference UnityEngine.UI.GraphicRaycaster for Canvas
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for Canvas (1):
+  - UnityEngine.UI.GraphicRaycaster
+
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference UnityEngine.UI.Image for Board
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for Board (1):
+  - UnityEngine.UI.Image
+
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference UnityEngine.UI.Image for Popup
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for Popup (1):
+  - UnityEngine.UI.Image
+
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference UnityEngine.UI.Image for iVideoIcon
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for iVideoIcon (1):
+  - UnityEngine.UI.Image
+
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference UnityEngine.UI.Image for bWatchAds
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for bWatchAds (1):
+  - UnityEngine.UI.Image
+
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference UnityEngine.UI.Button for bWatchAds
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for bWatchAds (1):
+  - UnityEngine.UI.Button
+
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference TMPro.TextMeshProUGUI for tWatchAds
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for tWatchAds (1):
+  - TMPro.TextMeshProUGUI
+
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference UnityEngine.UI.Image for Image
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for Image (1):
+  - UnityEngine.UI.Image
+
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference TMPro.TextMeshProUGUI for tDescription
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for tDescription (1):
+  - TMPro.TextMeshProUGUI
+
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference TMPro.TextMeshProUGUI for tDescription (1)
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for tDescription (1) (1):
+  - TMPro.TextMeshProUGUI
+
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference UnityEngine.UI.Image for bClose
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for bClose (1):
+  - UnityEngine.UI.Image
+
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference UnityEngine.UI.Button for bClose
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for bClose (1):
+  - UnityEngine.UI.Button
+
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference UnityEngine.UI.Image for Image
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for Image (1):
+  - UnityEngine.UI.Image
+
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference GuangGao for GuangGao
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for GuangGao (1):
+  - GuangGao
+
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Iterate components in not loaded build scene Assets/Scenes/scn_home.unity.
 [Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found 3 Root GameObjects in Scene Assets/Scenes/scn_home.unity
 [Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found 116 Components in Scene Assets/Scenes/scn_home.unity
 [Info][OPS.OBF][OnAnalyse_Component_Scenes] Process component Analyse Unity Event Component
@@ -385,284 +663,6 @@
 [Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference UnityEngine.EventSystems.StandaloneInputModule for EventSystem
 [Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for EventSystem (1):
   - UnityEngine.EventSystems.StandaloneInputModule
-
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Iterate components in not loaded build scene Assets/Scenes/scn_loading.unity.
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found 6 Root GameObjects in Scene Assets/Scenes/scn_loading.unity
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found 103 Components in Scene Assets/Scenes/scn_loading.unity
-[Info][OPS.OBF][OnAnalyse_Component_Scenes] Process component Analyse Unity Event Component
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in Main Camera of type UnityEngine.Transform
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in Main Camera of type UnityEngine.Camera
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in Main Camera of type UnityEngine.FlareLayer
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in Main Camera of type UnityEngine.AudioListener
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in Main Camera of type LoadingControl
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in DefineGroup of type UnityEngine.Transform
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in DefineGroup of type DontDestroyOnLoad
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in BlockColorDefine of type UnityEngine.Transform
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in BlockColorDefine of type BlockColorDefine
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in TextEffectDefine of type UnityEngine.Transform
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in TextEffectDefine of type TextEffectDefine
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in AudioManager of type UnityEngine.Transform
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in AudioManager of type AudioManager
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in AudioManager of type UnityEngine.AudioSource
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in AudioManager of type UnityEngine.AudioSource
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in LoadSceneFading of type UnityEngine.Transform
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in LoadSceneFading of type Fading
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in LoadSceneFading of type LoadSceneFading
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in BoosterDefine of type UnityEngine.Transform
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in BoosterDefine of type BoosterDefine
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in Timer of type UnityEngine.Transform
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in Timer of type TimerControl
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in Admob of type UnityEngine.Transform
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in Admob of type Admob
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in Maidian of type UnityEngine.Transform
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in Maidian of type AdManager
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in guanggao of type UnityEngine.Transform
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in EventSystem of type UnityEngine.Transform
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in EventSystem of type UnityEngine.EventSystems.EventSystem
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in EventSystem of type UnityEngine.EventSystems.StandaloneInputModule
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in Canvas of type UnityEngine.RectTransform
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in Canvas of type UnityEngine.Canvas
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in Canvas of type UnityEngine.UI.CanvasScaler
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in Canvas of type UnityEngine.UI.GraphicRaycaster
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in iBackground of type UnityEngine.RectTransform
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in iBackground of type UnityEngine.CanvasRenderer
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in iBackground of type UnityEngine.UI.Image
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in iLoading of type UnityEngine.RectTransform
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in iLoading of type UnityEngine.CanvasRenderer
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in iLoading of type UnityEngine.UI.Image
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in iGameName of type UnityEngine.RectTransform
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in iGameName of type UnityEngine.CanvasRenderer
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in iGameName of type UnityEngine.UI.Image
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in LoadingBarBg of type UnityEngine.RectTransform
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in LoadingBarBg of type UnityEngine.CanvasRenderer
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in LoadingBarBg of type UnityEngine.UI.Image
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in LoadingBar of type UnityEngine.RectTransform
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in LoadingBar of type UnityEngine.CanvasRenderer
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in LoadingBar of type UnityEngine.UI.Image
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in Text (TMP) of type UnityEngine.RectTransform
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in Text (TMP) of type UnityEngine.CanvasRenderer
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in Text (TMP) of type TMPro.TextMeshProUGUI
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in Text (TMP) (1) of type UnityEngine.RectTransform
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in Text (TMP) (1) of type UnityEngine.CanvasRenderer
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in Text (TMP) (1) of type TMPro.TextMeshProUGUI
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in Text (TMP) (2) of type UnityEngine.RectTransform
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in Text (TMP) (2) of type UnityEngine.CanvasRenderer
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in Text (TMP) (2) of type TMPro.TextMeshProUGUI
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in Text (TMP) (3) of type UnityEngine.RectTransform
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in Text (TMP) (3) of type UnityEngine.CanvasRenderer
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in Text (TMP) (3) of type TMPro.TextMeshProUGUI
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in MoreCoinPopup of type UnityEngine.Transform
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in MoreCoinPopup of type DontDestroyOnLoad
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in MoreCoinPopup of type MoreCoinPopup
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found unity event methods in MoreCoinPopup (1):
-  - WatchAds
-
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in Canvas of type UnityEngine.RectTransform
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in Canvas of type UnityEngine.Canvas
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in Canvas of type UnityEngine.UI.CanvasScaler
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in Canvas of type UnityEngine.UI.GraphicRaycaster
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in Board of type UnityEngine.RectTransform
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in Board of type UnityEngine.CanvasRenderer
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in Board of type UnityEngine.UI.Image
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in Popup of type UnityEngine.RectTransform
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in Popup of type UnityEngine.CanvasRenderer
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in Popup of type UnityEngine.UI.Image
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in Popup of type UnityEngine.Animator
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in iVideoIcon of type UnityEngine.RectTransform
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in iVideoIcon of type UnityEngine.CanvasRenderer
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in iVideoIcon of type UnityEngine.UI.Image
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in bWatchAds of type UnityEngine.RectTransform
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in bWatchAds of type UnityEngine.CanvasRenderer
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in bWatchAds of type UnityEngine.UI.Image
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in bWatchAds of type UnityEngine.UI.Button
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in tWatchAds of type UnityEngine.RectTransform
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in tWatchAds of type UnityEngine.CanvasRenderer
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in tWatchAds of type TMPro.TextMeshProUGUI
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in Image of type UnityEngine.RectTransform
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in Image of type UnityEngine.CanvasRenderer
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in Image of type UnityEngine.UI.Image
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in tDescription of type UnityEngine.RectTransform
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in tDescription of type UnityEngine.CanvasRenderer
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in tDescription of type TMPro.TextMeshProUGUI
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in tDescription (1) of type UnityEngine.RectTransform
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in tDescription (1) of type UnityEngine.CanvasRenderer
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in tDescription (1) of type TMPro.TextMeshProUGUI
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in bClose of type UnityEngine.RectTransform
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in bClose of type UnityEngine.CanvasRenderer
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in bClose of type UnityEngine.UI.Image
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in bClose of type UnityEngine.UI.Button
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found unity event methods in bClose (1):
-  - Close
-
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in Image of type UnityEngine.RectTransform
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in Image of type UnityEngine.CanvasRenderer
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in Image of type UnityEngine.UI.Image
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in GuangGao of type UnityEngine.Transform
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Find unity event methods in GuangGao of type GuangGao
-[Info][OPS.OBF][OnAnalyse_Component_Scenes] Process component Analyse MonoScript
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference LoadingControl for Main Camera
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for Main Camera (1):
-  - LoadingControl
-
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference DontDestroyOnLoad for DefineGroup
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for DefineGroup (1):
-  - DontDestroyOnLoad
-
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference BlockColorDefine for BlockColorDefine
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for BlockColorDefine (1):
-  - BlockColorDefine
-
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference TextEffectDefine for TextEffectDefine
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for TextEffectDefine (1):
-  - TextEffectDefine
-
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference AudioManager for AudioManager
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for AudioManager (1):
-  - AudioManager
-
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference Fading for LoadSceneFading
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for LoadSceneFading (1):
-  - Fading
-
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference LoadSceneFading for LoadSceneFading
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for LoadSceneFading (1):
-  - LoadSceneFading
-
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference BoosterDefine for BoosterDefine
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for BoosterDefine (1):
-  - BoosterDefine
-
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference TimerControl for Timer
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for Timer (1):
-  - TimerControl
-
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference Admob for Admob
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for Admob (1):
-  - Admob
-
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference AdManager for Maidian
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for Maidian (1):
-  - AdManager
-
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference UnityEngine.EventSystems.EventSystem for EventSystem
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for EventSystem (1):
-  - UnityEngine.EventSystems.EventSystem
-
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference UnityEngine.EventSystems.StandaloneInputModule for EventSystem
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for EventSystem (1):
-  - UnityEngine.EventSystems.StandaloneInputModule
-
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference UnityEngine.UI.CanvasScaler for Canvas
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for Canvas (1):
-  - UnityEngine.UI.CanvasScaler
-
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference UnityEngine.UI.GraphicRaycaster for Canvas
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for Canvas (1):
-  - UnityEngine.UI.GraphicRaycaster
-
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference UnityEngine.UI.Image for iBackground
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for iBackground (1):
-  - UnityEngine.UI.Image
-
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference UnityEngine.UI.Image for iLoading
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for iLoading (1):
-  - UnityEngine.UI.Image
-
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference UnityEngine.UI.Image for iGameName
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for iGameName (1):
-  - UnityEngine.UI.Image
-
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference UnityEngine.UI.Image for LoadingBarBg
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for LoadingBarBg (1):
-  - UnityEngine.UI.Image
-
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference UnityEngine.UI.Image for LoadingBar
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for LoadingBar (1):
-  - UnityEngine.UI.Image
-
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference TMPro.TextMeshProUGUI for Text (TMP)
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for Text (TMP) (1):
-  - TMPro.TextMeshProUGUI
-
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference TMPro.TextMeshProUGUI for Text (TMP) (1)
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for Text (TMP) (1) (1):
-  - TMPro.TextMeshProUGUI
-
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference TMPro.TextMeshProUGUI for Text (TMP) (2)
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for Text (TMP) (2) (1):
-  - TMPro.TextMeshProUGUI
-
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference TMPro.TextMeshProUGUI for Text (TMP) (3)
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for Text (TMP) (3) (1):
-  - TMPro.TextMeshProUGUI
-
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference DontDestroyOnLoad for MoreCoinPopup
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for MoreCoinPopup (1):
-  - DontDestroyOnLoad
-
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference MoreCoinPopup for MoreCoinPopup
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for MoreCoinPopup (1):
-  - MoreCoinPopup
-
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference UnityEngine.UI.CanvasScaler for Canvas
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for Canvas (1):
-  - UnityEngine.UI.CanvasScaler
-
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference UnityEngine.UI.GraphicRaycaster for Canvas
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for Canvas (1):
-  - UnityEngine.UI.GraphicRaycaster
-
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference UnityEngine.UI.Image for Board
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for Board (1):
-  - UnityEngine.UI.Image
-
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference UnityEngine.UI.Image for Popup
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for Popup (1):
-  - UnityEngine.UI.Image
-
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference UnityEngine.UI.Image for iVideoIcon
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for iVideoIcon (1):
-  - UnityEngine.UI.Image
-
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference UnityEngine.UI.Image for bWatchAds
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for bWatchAds (1):
-  - UnityEngine.UI.Image
-
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference UnityEngine.UI.Button for bWatchAds
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for bWatchAds (1):
-  - UnityEngine.UI.Button
-
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference TMPro.TextMeshProUGUI for tWatchAds
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for tWatchAds (1):
-  - TMPro.TextMeshProUGUI
-
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference UnityEngine.UI.Image for Image
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for Image (1):
-  - UnityEngine.UI.Image
-
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference TMPro.TextMeshProUGUI for tDescription
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for tDescription (1):
-  - TMPro.TextMeshProUGUI
-
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference TMPro.TextMeshProUGUI for tDescription (1)
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for tDescription (1) (1):
-  - TMPro.TextMeshProUGUI
-
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference UnityEngine.UI.Image for bClose
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for bClose (1):
-  - UnityEngine.UI.Image
-
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference UnityEngine.UI.Button for bClose
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for bClose (1):
-  - UnityEngine.UI.Button
-
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference UnityEngine.UI.Image for Image
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for Image (1):
-  - UnityEngine.UI.Image
-
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference GuangGao for GuangGao
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for GuangGao (1):
-  - GuangGao
 
 [Debug][OPS.OBF][OnAnalyse_Component_Scenes] Iterate components in not loaded build scene Assets/Scenes/scn_selectLevel.unity.
 [Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found 3 Root GameObjects in Scene Assets/Scenes/scn_selectLevel.unity
@@ -2728,34 +2728,34 @@
 [Debug][OPS.OBF][Setup] Load Pipeline
 [Warning][OPS.OBF][Setup] There is no assembly: Assembly-CSharp-firstpass.dll
 [Debug][OPS.OBF][Setup] Found to obfuscate assemblies (1):
-  - D:\123pan\Downloads\WanZhuanFangKuai\Temp\StagingArea\Data\Managed\Assembly-CSharp.dll
+  - D:\Unity\WanZhuanFangKuai\Temp\StagingArea\Data\Managed\Assembly-CSharp.dll
 
 [Debug][OPS.OBF][Setup] Found helper assemblies (0):
 
 [Debug][OPS.OBF][Setup] Found dependency directories (23):
-  - D:\XingRenShun\Unity\2022.3.48f1c1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit-win32
-  - D:\XingRenShun\Unity\2022.3.48f1c1\Editor\Data\Managed\UnityEngine
-  - D:\XingRenShun\Unity\2022.3.48f1c1\Editor\Data\PlaybackEngines\WebGLSupport\Managed
-  - D:\XingRenShun\Unity\2022.3.48f1c1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit-win32\Facades
-  - D:\XingRenShun\Unity\2022.3.48f1c1\Editor\Data\Managed
-  - D:\XingRenShun\Unity\2022.3.48f1c1\Editor\Data\PlaybackEngines\WebGLSupport
-  - D:\XingRenShun\Unity\2022.3.48f1c1\Editor\Data\PlaybackEngines\WindowsStandaloneSupport
-  - D:\123pan\Downloads\WanZhuanFangKuai\Library\ScriptAssemblies
-  - D:\123pan\Downloads\WanZhuanFangKuai\Assets\Plugins\ByteGame\com.bytedance.bgdt\Editor
-  - D:\123pan\Downloads\WanZhuanFangKuai\Library\PackageCache\com.unity.ext.nunit@1.0.6\net35\unity-custom
-  - D:\123pan\Downloads\WanZhuanFangKuai\Assets\OPS\Editor\Plugins\Mono.Cecil
-  - D:\123pan\Downloads\WanZhuanFangKuai\Assets\OPS\Obfuscator\Editor\Plugins
-  - D:\123pan\Downloads\WanZhuanFangKuai\Assets\OPS\Editor\Plugins\OPS.Assets.Editor
-  - D:\123pan\Downloads\WanZhuanFangKuai\Assets\Plugins\ByteGame\com.bytedance.starksdk
-  - D:\123pan\Downloads\WanZhuanFangKuai\Assets\OPS\Plugins\Json
-  - D:\123pan\Downloads\WanZhuanFangKuai\Assets\Plugins\ByteGame\com.bytedance.starksdk\Editor\Tool
+  - D:\Hub\Editor\2022.3.48f1c1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit-win32
+  - D:\Hub\Editor\2022.3.48f1c1\Editor\Data\Managed\UnityEngine
+  - D:\Hub\Editor\2022.3.48f1c1\Editor\Data\PlaybackEngines\WebGLSupport\Managed
+  - D:\Hub\Editor\2022.3.48f1c1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit-win32\Facades
+  - D:\Hub\Editor\2022.3.48f1c1\Editor\Data\Managed
+  - D:\Hub\Editor\2022.3.48f1c1\Editor\Data\PlaybackEngines\WebGLSupport
+  - D:\Hub\Editor\2022.3.48f1c1\Editor\Data\PlaybackEngines\WindowsStandaloneSupport
+  - D:\Unity\WanZhuanFangKuai\Library\ScriptAssemblies
+  - D:\Unity\WanZhuanFangKuai\Assets\Plugins\ByteGame\com.bytedance.starksdk\Editor\Tool
+  - D:\Unity\WanZhuanFangKuai\Assets\Plugins\ByteGame\com.bytedance.bgdt\Editor
+  - D:\Unity\WanZhuanFangKuai\Library\PackageCache\com.unity.ext.nunit@1.0.6\net35\unity-custom
+  - D:\Unity\WanZhuanFangKuai\Assets\OPS\Editor\Plugins\Mono.Cecil
+  - D:\Unity\WanZhuanFangKuai\Assets\OPS\Obfuscator\Editor\Plugins
+  - D:\Unity\WanZhuanFangKuai\Assets\OPS\Editor\Plugins\OPS.Assets.Editor
+  - D:\Unity\WanZhuanFangKuai\Assets\Plugins\ByteGame\com.bytedance.starksdk
+  - D:\Unity\WanZhuanFangKuai\Assets\OPS\Plugins\Json
   - Assets\Plugins\ByteGame\com.bytedance.starksdk
   - Assets\OPS\Plugins\Json
-  - D:\XingRenShun\Unity\2022.3.48f1c1\Editor\Data\NetStandard\ref\2.1.0
-  - D:\XingRenShun\Unity\2022.3.48f1c1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard
-  - D:\XingRenShun\Unity\2022.3.48f1c1\Editor\Data\NetStandard\Extensions\2.0.0
-  - D:\XingRenShun\Unity\2022.3.48f1c1\Editor\Data\NetStandard\compat\2.1.0\shims\netfx
-  - D:\XingRenShun\Unity\2022.3.48f1c1\Editor\Managed
+  - D:\Hub\Editor\2022.3.48f1c1\Editor\Data\NetStandard\ref\2.1.0
+  - D:\Hub\Editor\2022.3.48f1c1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard
+  - D:\Hub\Editor\2022.3.48f1c1\Editor\Data\NetStandard\Extensions\2.0.0
+  - D:\Hub\Editor\2022.3.48f1c1\Editor\Data\NetStandard\compat\2.1.0\shims\netfx
+  - D:\Hub\Editor\2022.3.48f1c1\Editor\Managed
 
 [Debug][OPS.OBF][Setup] Load Assembly Resolver
 [Info][OPS.OBF][Setup] Prepare Assemblies
@@ -6158,7 +6158,7 @@
 [Info][OPS.OBF][OnPostObfuscate_Assemblies] Process component Remove Obfuscator Attributes
 [Info][OPS.OBF][OnPostObfuscate_Assemblies] [Assembly-CSharp] Skip remove obfuscator attributes ...
 [Info][OPS.OBF][OnPostObfuscate_Assemblies] Save Assemblies
-[Info][OPS.OBF][OnPostObfuscate_Assemblies] Saving assembly: D:\123pan\Downloads\WanZhuanFangKuai\Temp\StagingArea\Data\Managed\Assembly-CSharp.dll
+[Info][OPS.OBF][OnPostObfuscate_Assemblies] Saving assembly: D:\Unity\WanZhuanFangKuai\Temp\StagingArea\Data\Managed\Assembly-CSharp.dll
 [Info][OPS.OBF][OnPostObfuscate_Assemblies] Post process Assemblies
 [Info][OPS.OBF][OnPostObfuscate_Assemblies] Process component Unity Animation Methods - Compatibility
 [Info][OPS.OBF][OnPostObfuscate_Assemblies] Process component Unity Event Methods - Compatibility
@@ -6187,7 +6187,7 @@
 [Debug][OPS.OBF][OnPostObfuscate_Assemblies] Unload RenameManager
 [Debug][OPS.OBF][OnPostObfuscate_Assemblies] Unload Cache
 [Debug][OPS.OBF][OnPostObfuscate_Assemblies] Unload Assemblies
-[Info][OPS.OBF][OnPostObfuscate_Assemblies] Unloaded assembly successfully: D:\123pan\Downloads\WanZhuanFangKuai\Temp\StagingArea\Data\Managed\Assembly-CSharp.dll
+[Info][OPS.OBF][OnPostObfuscate_Assemblies] Unloaded assembly successfully: D:\Unity\WanZhuanFangKuai\Temp\StagingArea\Data\Managed\Assembly-CSharp.dll
 [Debug][OPS.OBF][OnPostObfuscate_Assemblies] Unload Assembly Resolver
 [Info][OPS.OBF][OnPostObfuscate_Assemblies] Unloaded successfully the AssemblyResolver.
 [Debug][OPS.OBF][OnPostObfuscate_Assemblies] Unload Pipeline

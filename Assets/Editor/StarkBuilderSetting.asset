@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   tag: 0
   wasmResourceUrl: http://
-  OutputDir: D:\123pan\Downloads\WanZhuanFangKuai\tt-minigame
+  OutputDir: D:\Unity\WanZhuanFangKuai\tt-minigame
   useByteAudioAPI: 0
   wasmMemorySize: 128
   isWebGL2: 1
@@ -51,15 +51,15 @@ MonoBehaviour:
   NativeWhiteListRegex:
   - com.bytedance.starksdk
   - _Backup~
-  _appId: tt6fd41969f1b3697802
+  _appId: tt47f7314ad98c0f7902
   version: 
   autoVersion: 0
-  _webglPackagePath: D:\123pan\Downloads\WanZhuanFangKuai\tt-minigame\tt-minigame
+  _webglPackagePath: D:\Unity\WanZhuanFangKuai\tt-minigame\tt-minigame
   _orientation: 0
   _iOSPerformancePlus: 0
   _menuButtonStyle: 0
   _publishType: 0
   publishDesc: 
-  idePath: "C:/Users/Administrator/Desktop/@bytedminiprogram-ide/\u6296\u97F3\u5F00\u53D1\u8005\u5DE5\u5177.exe"
+  idePath: "C:/Users/\u5C0F\u80A5/Desktop/@bytedminiprogram-ide/\u6296\u97F3\u5F00\u53D1\u8005\u5DE5\u5177.exe"
   isConvert: 0
   isOldBuildFormat: 0
